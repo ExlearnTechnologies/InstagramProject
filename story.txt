@@ -1,1 +1,2 @@
 This is story page
+Few new lines of code
