@@ -1,2 +1,3 @@
 This is profile page
 Few new features
+Another new feature
